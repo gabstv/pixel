@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/faiface/pixel"
+	"github.com/gabstv/pixel"
 )
 
 type rectTestTransform struct {

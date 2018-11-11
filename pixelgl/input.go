@@ -2,7 +2,7 @@ package pixelgl
 
 import (
 	"github.com/faiface/mainthread"
-	"github.com/faiface/pixel"
+	"github.com/gabstv/pixel"
 	"github.com/go-gl/glfw/v3.2/glfw"
 )
 
